@@ -58,10 +58,8 @@
     "wsextservice": "local_mobile",
      "siteurl": "https://simplycivils.com/",
 
-    "demo_sites": {
-    }
     },
-    "customurlscheme": "simplycivils",
+    "customurlscheme": "https://simplycivils.com/",
     "siteurl": "https://simplycivils.com/",
     "sitename": "Simply Civils",
     "multisitesdisplay": "",
